@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> review </title>
+<style>
+div {
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  width: 1600px;
+  height:210px;
+  margin-top: 10px;
+  margin-bottom: 200px;
+  margin-right: 80px;
+  margin-left: 0px;
+  padding-left:25px;
+  padding-right: 50px;
+  background-color: black;
+  text-align: center;
+  
+}
+.button {
+  position: absolute;
+  right: 155px;
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: white;
+  font-size: 20px;
+  margin: 9px 2px;
+  cursor: pointer;
+}
+.newbutton {
+  position: absolute;
+  right: 10px;
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: white;
+  font-size: 20px;
+  margin: 9px 2px;
+  cursor: pointer;
+}
+</style>
+<link rel="stylesheet" href="style1.css">
+</head>
+<body style=" background-image:url('red.jpg')">
+<div>
+<href="left" src="C:\Users\hp\Desktop\pizza.jpg">
+<img align="left" src="C:\Users\mrith\Desktop\pizza.jpeg"style="width:250px;height:200px;"alt="image not available"><br><br>
+<a href="C:\Users\mrith\Desktop\login.html" class="button">Login</a>
+<a href="C:\Users\mrith\Desktop\reserve.html" class="newbutton">Reserve</a>
+</div>
+</a>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 5px;
+}
+.checked {
+  color:orange;
+}
+h1{
+text-align:center;
+font size: 20%
+text-shadow:2px 2px 5px black;
+}
+</style>
+</head>
+<body>
+<center>
+<h1>
+Yummy In My Tummy !<br></h1>
+<h2>
+Esternos is an American multinational restaurant chain and international franchise founded in 1958 in Wichita,<br>
+Kansas by Dan and Frank Carney.They serve their signature pan pizza and other dishes including pasta,<br>
+breadsticks and dessert at dine-in, take-out and delivery chain locations.
+</h2>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+<table>
+  <tr>
+      <th colspan="2"><center><i>special dishes</i></center></th>
+  </tr>
+  <tr>
+    <td><center><href="C:\Users\mrith\Desktop\pic1.jpg">
+    <img src="C:\Users\mrith\Desktop\pic1.jpg"alt="image not available">
+    </center>
+    </td>
+    <td><span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span> 
+    <p> 
+     a mouthwatering medley fresh farmhouse pizza topped with green capsicum,sweetcorn,tomato and loaded with regular tomato sauce,cheese and black olives
+    </p>
+    </td>
+   </tr>
+   <tr>
+    <td><center><href="C:\Users\mrith\Desktop\pic2.jpg">
+    <img src="C:\Users\mrith\Desktop\pic2.jpg"alt="image not available">
+    </center>
+    </td>
+    <td><span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <p>
+      the wholesome flavour of tandoori masala with chicken tikka,onion,red paprika and mint mayoo
+    </p>
+   </tr>
+   
+  <tr>
+    <td><center><href="C:\Users\mrith\Desktop\pic3.jpg">
+    <img src="C:\Users\mrith\Desktop\pic3.jpg"alt="image not available">
+    </center>
+    </td>
+    <td><span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span> 
+    <p>  
+     this vegetarian recipe for Caramelized Onion, Goat Cheese and Kale Pizza with Balsamic Drizzle. These toppings are the perfect combinations of salty, sweet, and savory! 
+    </p>
+    </td>
+   </tr>
+ <tr>
+    <td><center><href="C:\Users\mrith\Desktop\pic4.jpg">
+    <img src="C:\Users\mrith\Desktop\pic4.jpg"alt="image not available">
+    </center>
+    </td>
+    <td><span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span> 
+    <p> 
+      choclate lovers delight!indulgent,gooey molten lava inside choclate cake   
+    </p>
+    </td>
+   </tr>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+
+<h2 class="w3-left">
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="C:\Users\mrith\Desktop\offer1.jpg" style="width:100%">
+  <img class="mySlides" src= "C:\Users\mrith\Desktop\offer2.jpg"style="width:100%">
+  <img class="mySlides" src="C:\Users\mrith\Desktop\offer3.jpg" style="width:100%">
+<img class="mySlides" src= "C:\Users\mrith\Desktop\offer4.jpg"style="width:100%">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 4 seconds
+}
+</script>
+   
+</center>
+</body>
+</html>
